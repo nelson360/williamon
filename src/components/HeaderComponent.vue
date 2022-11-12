@@ -13,7 +13,7 @@
         <li>
             <router-link to="/ContactComponent">Contact</router-link>
         </li>
-        <RouterView />
+        <RouterView /></ul>
 </nav>
 
 </template>
