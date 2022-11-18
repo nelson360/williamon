@@ -12,4 +12,6 @@ git add -A
 
 git commit -m 'nenw change'
 
-git push github.williamon to fix
+git push -f git@github.com:nelson360/williamon.git master:gh-pages
+
+cd -

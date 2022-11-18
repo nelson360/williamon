@@ -2,7 +2,7 @@
 <!-- Footer -->
 <MDBFooter bg="dark" :text="['center', 'white']">
     <!-- Grid container -->
-    
+
     <!-- Grid container -->
     <!-- Copyright -->
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
@@ -14,7 +14,6 @@
 <!-- Footer -->
 </template>
 
-  
 <script>
 export default {
     name: 'FooterComponent',
@@ -22,5 +21,4 @@ export default {
 }
 </script>
 
-  
 <style></style>

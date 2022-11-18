@@ -1,9 +1,10 @@
 <template>
-    <p>qualification</p>
+<p>qualification</p>
 </template>
+
 <script>
-    export default {
+export default {
     name: 'QualificationComponent',
-    
+
 }
 </script>

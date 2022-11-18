@@ -13,9 +13,8 @@
         <li>
             <router-link to="/ContactComponent">Contact</router-link>
         </li>
-        </ul>
+    </ul>
 </nav>
-
 </template>
 
 <script>

@@ -1,9 +1,10 @@
 <template>
-    <p>about me </p>
+<p>about me </p>
 </template>
+
 <script>
-    export default {
+export default {
     name: 'AboutComponent',
-    
+
 }
 </script>

@@ -1,12 +1,14 @@
 <template>
-    <p>contact component</p>
+<p>contact component</p>
 </template>
+
 <script>
-    export default {
+export default {
     name: 'ContactComponent',
-    
+
 }
 </script>
+
 <style scoped>
 
 </style>
