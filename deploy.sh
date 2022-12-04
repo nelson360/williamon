@@ -10,7 +10,7 @@ git init
 
 git add -A
 
-git commit -m 'nenw change'
+git commit -m 'new change'
 
 git push -f git@github.com:nelson360/williamon.git master:gh-pages
 
